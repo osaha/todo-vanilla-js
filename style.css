@@ -47,10 +47,11 @@ form {
 select {
   font-size: 1rem;
   padding: 0.8rem;
-  width: 10rem;
+  width: 12rem;
   cursor: pointer;
   border: none;
   background-color: #fff;
+  color: #5961d1;
 }
 
 .select {
