@@ -153,7 +153,7 @@ form button:hover {
 }
 
 .fall {
-  transform: translateX(8rem) rotateZ(20deg);
+  transform: translateY(8rem) rotateZ(20deg);
   opacity: 0;
 }
 
